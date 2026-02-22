@@ -49,6 +49,60 @@ The motivation behind this analysis is to demonstrate how data analytics can sup
 
 ### 3. Data Description
 
+🔹 **Dataset Overview:**
+
+- **Total Titles:** 19,294
+- **Countries Covered:** 86
+- **Unique Directors:** 4,528
+- **Average Duration:** 103.8 minutes
+
+🔹 **Key Attributes**
+
+- show_id (Primary Key)
+- type (Movie / TV Show)
+- title, director, country
+- release_year, date_added
+- rating, duration
+- genre, year_added, month_added
+
+### 4. Methodology
+
+🔹 **Data Cleaning & Preparation:**
+
+- Handled missing values in director and country.
+- Removed duplicates using unique show_id.
+- Standardized date formats.
+- Extracted year and month from date_added.
+- Normalized genre values.
+- Created derived metrics for KPIs.
+
+🔹 **Analytical Techniques**
+
+- Aggregations and grouping (SQL).
+- Trend analysis (time series).
+- Comparative analysis (Movies vs TV Shows).
+- Percentage-based KPI calculations.
+
+### 5. Analysis and Visualisations
+
+🔹 **Content Overview:**
+
+- **Total Titles:** 19,294
+- **Movies:** 13,185 (68.34%)
+- **TV Shows:** 6,109 (31.66%)
+
+This indicates a strong emphasis on movies while maintaining a substantial TV show library.
+
+🔹 **Geographic Distribution:**
+
+- Content spans 86 countries.
+- The United States is the largest contributor.
+- Strong international presence supports global expansion strategy.
+
+
+
+
+
 
 
 
