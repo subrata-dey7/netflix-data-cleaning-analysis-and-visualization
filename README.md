@@ -7,7 +7,7 @@
 
 This project presents a comprehensive data analysis of Netflix’s global content library using Python, SQL, and Tableau. The primary objective was to clean, analyze, and visualize Netflix content data to uncover trends in content distribution, genre dominance, regional reach, ratings strategy, and growth over time.
 
-The analysis reveals that Netflix hosts 19,294 titles across 86 countries, with Movies accounting for 68.34% and TV Shows 31.66% of the catalog. Content additions increased sharply after 2015, peaking around 2019–2020, reflecting aggressive expansion. Mature-rated content (TV-MA and TV-14) dominates the platform, while international movies and dramas emerge as the most prominent genres.
+The analysis reveals that Netflix hosts 19,294 titles across 86 countries, with Movies accounting for 68.34% and TV Shows 31.66% of the catalog. Content additions increased sharply after 2015, peaking around 2019-2020, reflecting aggressive expansion. Mature-rated content (TV-MA and TV-14) dominates the platform, while international movies and dramas emerge as the most prominent genres.
 
 The findings support strategic recommendations related to content investment, regional expansion, and release planning. This project demonstrates strong end-to-end analytical capability, from raw data cleaning to executive-ready dashboard insights.
 
@@ -102,7 +102,7 @@ This indicates a strong emphasis on movies while maintaining a substantial TV sh
 🔹 **Genre Analysis:**
 
 - International Movies are the most dominant genre.
-- Dramas (~12–13%) and Comedies (~9%) follow closely.
+- Dramas (~12-13%) and Comedies (~9%) follow closely.
 - 42 unique genres highlight content diversity.
 
 Netflix clearly prioritizes international storytelling and high-engagement genres.
@@ -118,7 +118,7 @@ This reflects a strategy focused on mature and older teen audiences.
 🔹 **Time-Based Analysis:**
 
 - Content releases increased sharply after 2015.
-- Peak additions around 2019–2020.
+- Peak additions around 2019-2020.
 - Slight stabilization or decline in 2021.
 - December shows consistent release surges.
 
